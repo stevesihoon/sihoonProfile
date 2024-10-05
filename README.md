@@ -21,6 +21,12 @@ Java
 ## 🔭 Career
 - Pursuing a BS degree in Computer Science at the Iowa State University (2023-)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevesihoon&show_icons=true&theme=radical)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevesihoon&layout=compact)](https://github.com/stevesh/github-readme-stats)
+
+
 <!--
 **changh95/changh95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
